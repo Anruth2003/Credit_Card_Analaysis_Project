@@ -120,3 +120,8 @@ For both ML and NN models, the notebook reports:
 2. Install required packages:
    ```bash
    pip install -r requirements.txt
+3. Place your CSV files in the project directory
+4. Open Jupyter Notebook:
+   ```bash
+   jupyter notebook Bank_Goodcredit.ipynb
+5. Run all cells sequentially
