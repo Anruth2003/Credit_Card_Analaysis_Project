@@ -3,8 +3,6 @@
 This project presents a complete **credit risk prediction workflow** built using Python and Machine Learning.  
 The notebook (`Bank_Goodcredit.ipynb`) includes data cleaning, preprocessing, feature engineering, model development, evaluation, and hyperparameter tuning.
 
-> **Note:**  
-> Although the notebook contains sections related to database reading, this version of the README assumes **you are working with CSV files only**, as requested.
 
 ---
 
